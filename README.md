@@ -18,7 +18,7 @@
 
 For seven years I've been accountable for the things governance is actually about: compliance, records, people, and operational risk, while running a multi-brand business in Karnataka. Tax compliance and book-keeping. Hiring, managing, and keeping staff. Vendors and events coordinated under real accountability. AI-agentic workflows built into day-to-day operations. I know what a control costs a business, not just what the framework says it should do.
 
-I read security through that lens. A finding isn't interesting because the tool flagged it. It matters for what it would cost the business and what it takes to actually close it. The labs below are where I've put that into practice: SOC engineering, SIEM, and penetration testing, each documented to professional standards.
+I read security through that lens. A finding isn't interesting because the tool flagged it. It matters for what it would cost the business and what it takes to actually close it. The work below is where I've put that into practice: a real-world GRC risk assessment, plus hands-on SOC engineering, SIEM, and penetration testing, each documented to professional standards.
 
 ---
 
@@ -26,10 +26,11 @@ I read security through that lens. A finding isn't interesting because the tool 
 
 | Project | What it shows |
 |---|---|
-| **[AI-Augmented SOC Lab](https://github.com/curtisilver/AI-Augmented-SOC-Lab)** | Three-VM SOC: Splunk, Elastic ML, LogAI, OpenCTI, Shuffle SOAR. Attack simulation, cross-source threat hunting, MITRE ATT&CK/D3FEND mapping, and a prioritised gap analysis. |
-| **[bee-box VAPT](https://github.com/curtisilver/Beebox-VAPT)** | Full PTES penetration test: 10 findings, SNMP enumeration, anonymous FTP exploitation, and a remediation applied *and verified* by re-running the attack. |
-| **[Breach at the Perimeter](https://github.com/curtisilver/Breach-at-the-Perimeter)** | Perimeter evasion with Metasploit & Nikto: default/spoofed/mutated scan comparison showing how request obfuscation defeats signature-based detection. |
-| **[VulnVMa VAPT](https://github.com/curtisilver/VulnVMA-VAPT)** | VAPT engagement with OWASP-mapped findings across misconfiguration, information disclosure, and access control, with remediation guidance. |
+| **[ISO 27001 & DPDP Risk Assessment](https://github.com/akshaykumarph/ISO27001-DPDP-Risk-Assessment)** | First-pass GRC gap analysis of a real small business (anonymised): data inventory, a scored risk register, a 93-control Statement of Applicability with justified exclusions, and a phased remediation roadmap, mapped to ISO 27001:2022 and India's DPDP Act. |
+| **[AI-Augmented SOC Lab](https://github.com/akshaykumarph/AI-Augmented-SOC-Lab)** | Three-VM SOC: Splunk, Elastic ML, LogAI, OpenCTI, Shuffle SOAR. Attack simulation, cross-source threat hunting, MITRE ATT&CK/D3FEND mapping, and a prioritised gap analysis. |
+| **[bee-box VAPT](https://github.com/akshaykumarph/Beebox-VAPT)** | Full PTES penetration test: 10 findings, SNMP enumeration, anonymous FTP exploitation, and a remediation applied *and verified* by re-running the attack. |
+| **[Breach at the Perimeter](https://github.com/akshaykumarph/Breach-at-the-Perimeter)** | Perimeter evasion with Metasploit & Nikto: default/spoofed/mutated scan comparison showing how request obfuscation defeats signature-based detection. |
+| **[VulnVMa VAPT](https://github.com/akshaykumarph/VulnVMA-VAPT)** | VAPT engagement with OWASP-mapped findings across misconfiguration, information disclosure, and access control, with remediation guidance. |
 
 ---
 
@@ -37,7 +38,7 @@ I read security through that lens. A finding isn't interesting because the tool 
 
 - 🎓 **Advanced Executive Program in Cybersecurity**, IIIT-Bangalore × Simplilearn
 - 📜 Preparing for **CompTIA Security+ (SY0-701)**
-- 🏗️ An **ISO 27001 / DPDP Act risk assessment** of a real operating business: risk register, controls mapping, remediation roadmap
+- 🔧 Executing the remediation roadmap from the risk assessment, moving findings from Open to Closed
 
 ---
 
