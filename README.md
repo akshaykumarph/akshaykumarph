@@ -37,7 +37,7 @@ I read security through that lens. A finding isn't interesting because the tool 
 ### On the bench now
 
 - 🎓 **Advanced Executive Program in Cybersecurity**, IIIT-Bangalore × Simplilearn
-- 📜 Preparing for **CompTIA Security+ (SY0-701)**
+- 📜 Preparing for **CEH v13** (for the technical skills)
 - 🔧 Executing the remediation roadmap from the risk assessment, moving findings from Open to Closed
 
 ---
