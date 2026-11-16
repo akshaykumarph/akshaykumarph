@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" role="presentation">
+  <style>
+    .ring { transform-origin: 8px 8px; animation: ping 2s ease-out infinite; }
+    @keyframes ping {
+      0% { transform: scale(.6); opacity: .7; }
+      100% { transform: scale(1.6); opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .ring { animation: none; opacity: 0; }
+    }
+  </style>
+  <circle class="ring" cx="8" cy="8" r="4.5" fill="#2EA043"/>
+  <circle cx="8" cy="8" r="3" fill="#2EA043"/>
+</svg>
